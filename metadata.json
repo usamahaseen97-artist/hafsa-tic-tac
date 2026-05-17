@@ -1,0 +1,6 @@
+{
+  "name": "Geometric Tic Tac Toe",
+  "description": "A refined, minimalist Tic Tac Toe game focusing on architectural balance, clean lines, and geometric precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
